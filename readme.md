@@ -6,6 +6,6 @@
 ## How to push the files on github
 - right click in the current working directory and open gitbash.
 - write the following commands in the same order.
-- git add .
+- git add .      
 - git commit -m"6/11/21"
 - git push -u origin main
